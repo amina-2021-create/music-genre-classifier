@@ -1,0 +1,9 @@
+modele_cnn.h5
+modele_cnn.keras
+modele_cnn.onnx
+modele.onnx
+myenv311/
+__pycache__/
+*.pyc
+tmp_*
+*.wav
