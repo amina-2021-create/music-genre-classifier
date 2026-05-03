@@ -1,4 +1,5 @@
 myenv311/
+ffmpeg/
 __pycache__/
 *.pyc
 tmp_*
